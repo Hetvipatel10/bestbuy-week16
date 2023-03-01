@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa89a7c4-dd9a-433a-8314-ffcdfa6706d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/categoriesinfo/CategoriesSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/constants/EndPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/constants/Path.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/model/CategoriesPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/model/ProductsPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/model/ServicePojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/model/StorePojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/productinfo/ProductSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/serviceinfo/ServiceSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/storeinfo/StoreSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/utils/PropertyReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bestbuy/utils/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/categoriesinfo/CategoriesCurdStepsWithSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/categoriesinfo/CategoriesCurdTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/cucumber/CucumberRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/cucumber/steps/MyStepdefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/productinfo/ProductCurdStepsWithSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/productinfo/ProductCurdTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/servicesinfo/ServiceCurdStepsWithSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/servicesinfo/ServiceCurdTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/storeinfo/StoreCURDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/storeinfo/StoreCurdStepsWithSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/bestbuy/testbase/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources/propertyfile/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MK9LGWYxGftqq5KZ1wRRYP57G0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Homework/bestbuy16/src/test/java/resources/propertyfile&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bestbuy.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Homework\bestbuy16\src\test\java\resources\propertyfile" />
+      <recent name="C:\Homework\bestbuy16\src\test\java\com\bestbuy" />
+      <recent name="C:\Homework\bestbuy16\src\main\java\com\bestbuy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ServiceCurdStepsWithSteps">
+    <configuration name="CategoriesCurdStepsWithSteps" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bestbuy16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestbuy.categoriesinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bestbuy.categoriesinfo" />
+      <option name="MAIN_CLASS_NAME" value="com.bestbuy.categoriesinfo.CategoriesCurdStepsWithSteps" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CategoriesCurdStepsWithSteps.test001" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bestbuy16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestbuy.categoriesinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bestbuy.categoriesinfo" />
+      <option name="MAIN_CLASS_NAME" value="com.bestbuy.categoriesinfo.CategoriesCurdStepsWithSteps" />
+      <option name="METHOD_NAME" value="test001" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceCurdStepsWithSteps" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bestbuy16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestbuy.servicesinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bestbuy.servicesinfo" />
+      <option name="MAIN_CLASS_NAME" value="com.bestbuy.servicesinfo.ServiceCurdStepsWithSteps" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreCurdStepsWithSteps" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bestbuy16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestbuy.storeinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bestbuy.storeinfo" />
+      <option name="MAIN_CLASS_NAME" value="com.bestbuy.storeinfo.StoreCurdStepsWithSteps" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StoreCurdStepsWithSteps.test004" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bestbuy16" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bestbuy.storeinfo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bestbuy.storeinfo" />
+      <option name="MAIN_CLASS_NAME" value="com.bestbuy.storeinfo.StoreCurdStepsWithSteps" />
+      <option name="METHOD_NAME" value="test004" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ServiceCurdStepsWithSteps" />
+        <item itemvalue="JUnit.CategoriesCurdStepsWithSteps" />
+        <item itemvalue="JUnit.CategoriesCurdStepsWithSteps.test001" />
+        <item itemvalue="JUnit.StoreCurdStepsWithSteps" />
+        <item itemvalue="JUnit.StoreCurdStepsWithSteps.test004" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa89a7c4-dd9a-433a-8314-ffcdfa6706d9" name="Changes" comment="" />
+      <created>1677505351082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677505351082</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/bestbuy/servicesinfo/ServiceCurdStepsWithSteps.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
